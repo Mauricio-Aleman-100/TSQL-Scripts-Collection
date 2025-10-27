@@ -51,7 +51,7 @@ GO
 INSERT INTO Patients VALUES
 (1,'Carlos','Garcia','1980-01-01','Mexico'),
 (2,'Claudia','Hernandez','1990-05-05','USA'),
-(3,'Juan','Lopez','2005-01-01','Mexico'); -- Este paciente violará CK_Age
+(3,'Juan','Lopez','2005-01-01','Mexico');
 
 INSERT INTO Medications VALUES
 (1,'Ibuprofeno','Analgesico',50.5),
